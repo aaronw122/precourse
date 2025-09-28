@@ -22,6 +22,7 @@ What are the top 20 commands for mac Command Line Interface (CLI)?
 19. tmutil startbackiup - backup with time machine. 
 20. killall AppName - force quitting apps. i.e. when xcode simulator won't close
 
+this
 
 
 What is a terminal? A CLI? Why are they synonymous?
