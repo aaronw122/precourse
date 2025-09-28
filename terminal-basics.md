@@ -1,6 +1,6 @@
 QUESTIONS
 
-What are the top 20 commands for mac Command Line Interface (CLI)?
+## What are the top 20 commands for mac Command Line Interface (CLI)?
 1. cd- change directory. 'cd “path/to/directory/”'
 2. ls - listing directory. view contents inside current directory. 
 3. open - open files. 'open "filename"'
@@ -22,9 +22,28 @@ What are the top 20 commands for mac Command Line Interface (CLI)?
 19. tmutil startbackiup - backup with time machine. 
 20. killall AppName - force quitting apps. i.e. when xcode simulator won't close
 
-this
 
 
-What is a terminal? A CLI? Why are they synonymous?
-What is the difference between bash and zsh?
-What is the difference between Terminal, Console, Shell, and Command Line?
+
+
+## What is the difference between bash and zsh?
+- shells are just a way to interact with the command line environment. 
+- overtime shells improved with new shortcuts, etc.
+
+bash- default shell on UNIX(MacOS) and Linux
+zsh - newer popular shell from 1990 - all features you find in bash, plus more, better completion. bash compatible.
+
+
+## What is a terminal? A CLI? Why are they synonymous?
+CLI and terminal are very closely related.
+- terminal: the environmment that emulates a console.
+- CLI: interface where you type a commands into.
+
+they are synonymous because CLI is the specific line that you are typing on inside terminal. 
+
+## What is the difference between Terminal, Console, Shell, and Command Line?
+
+terminal: the environmment that emulates a console. 
+CLI: interface where you type a commands into.
+console: physical terminal. appears to the operating system as a terminal.
+shell: command line interpreter. program invoked when you login. never sees output of commands it runs. asks kernel to do work. 
