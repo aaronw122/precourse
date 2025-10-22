@@ -13,7 +13,7 @@ QUESTIONS
 10. sudo - execute commands with superuser privileges. (required for some commands) sudo “command”
 11. top - lists actively running comptuer processes. 'top'
 12. q - quit sub screen, return to terminal
-13. clear - clears screen of all previous commands
+13. clear - clears screen of all 4previous commands
 14. ditto - copy contents of a folder to a new folder
 15. whatis - one line description for a command. "whatis mkdir"
 16. man - show more info on command. "man mkdir"
