@@ -17,7 +17,7 @@ then github takes it further with a centralized place for teams to contribute an
 9. git add -a - add everything at once
 10. git commit -m "commit message"
 11. git push <remote> <branch-name>
-12. git push - once you do remote once, can just ujse push
+12. git push - once you do remote once, can just use push
 13. git pull <remote> - gets updated from remote repo
 14. git revert <hashcode> - undo changes we've made
 15. git merge - integrates your feature branch with all of its commits back to master branch.
